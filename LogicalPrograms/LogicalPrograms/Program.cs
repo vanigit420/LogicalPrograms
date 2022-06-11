@@ -13,9 +13,7 @@ namespace LogicalPrograms
 
             //FibonacciSeries.PrintingFibonacci();
 
-            //PerfectNumber.FindingPerfectNumber();
-
-            PrimeNumber.PrintThePrimeNum();
+            PerfectNumber.FindingPerfectNumber();
 
         }
     }
